@@ -89,6 +89,10 @@ section ul {
     color: #555;
 }
 
+section > h2 + ul {
+    color: #000000;
+}
+
 a {
     color: #1E90FF;
     text-decoration: none;
@@ -126,7 +130,7 @@ a:hover {
 }
 
 .card h3 {
-    color: #000000;
+    color: #7f49f4;
 }
 
 .three-col img {
